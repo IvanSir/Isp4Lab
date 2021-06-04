@@ -1,0 +1,12 @@
+2021-06-04 15:06:13,771 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-06-04 15:06:15,366 asyncio      DEBUG    Using selector: EpollSelector
+2021-06-04 15:06:15,480 asyncio      DEBUG    Using selector: EpollSelector
+2021-06-04 17:24:40,929 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-06-04 17:24:43,452 django.request WARNING  Not Found: /static/css/styles.css
+2021-06-04 17:24:43,549 django.request WARNING  Not Found: /static/css/styles.css
+2021-06-04 17:24:43,599 django.request WARNING  Not Found: /static/img/favicon.ico
+2021-06-04 17:24:52,384 django.request WARNING  Not Found: /static/css/register.css
+2021-06-04 17:24:52,436 django.request WARNING  Not Found: /static/img/star_sky.jpg
+2021-06-04 17:24:52,474 django.request WARNING  Not Found: /favicon.ico
+2021-06-04 17:25:34,029 asyncio      DEBUG    Using selector: EpollSelector
+2021-06-04 17:25:34,193 asyncio      DEBUG    Using selector: EpollSelector

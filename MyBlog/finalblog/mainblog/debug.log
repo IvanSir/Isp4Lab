@@ -1,0 +1,6 @@
+2021-06-03 19:20:06,507 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-06-03 19:20:28,771 django.utils.autoreload INFO     /home/ivan/PycharmProjects/SecondTryLab/trueblog/MyBlog/finalblog/users/views.py changed, reloading.
+2021-06-03 19:20:28,772 asyncio      DEBUG    Using selector: EpollSelector
+2021-06-03 19:20:29,011 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-06-03 19:20:38,107 asyncio      DEBUG    Using selector: EpollSelector
+2021-06-03 19:20:38,220 asyncio      DEBUG    Using selector: EpollSelector
